@@ -1,3 +1,11 @@
+//
+// Copyright (c) 2022 zosann0228
+// This file is part of argparser originated by zosann0228.
+// Original is here: https://github.com/zosann0228/argparser
+// 
+// This project is released under MIT License.
+//
+
 #ifndef _ARGPARSER_H_
 #define _ARGPARSER_H_
 
