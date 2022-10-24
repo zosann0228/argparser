@@ -98,7 +98,7 @@ static inline char* argparser_has(char* name, struct ARGPARSER_DATA* data_array,
   return NULL;
 }
 
-#ifdef ___cplusplus
+#ifdef __cplusplus
 }
 #endif
 
